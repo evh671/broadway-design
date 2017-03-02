@@ -1,0 +1,84 @@
+html {
+    text-align: center;
+}
+
+header {
+    background-image: url("../images/the-flatiron-building.jpg");
+}
+
+header h1 {
+    font-family: Helvetica;
+    font-size: 70px;
+    font-weight: bold;
+    color : white;
+}
+
+header ul {
+    list-style-type: none;
+}
+
+header ul li {
+    margin-bottom: 15px;
+}
+
+header ul li a{
+    font-family: Helvetica;
+    font-size: 18px;
+    color: white;
+    margin-top:15px;
+    text-decoration: underline;
+}
+
+section#our-process h3 {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+}
+
+section#our-process h5 {
+    font-family: Helvetica;
+    font-size: 23px;
+    font-weight: bold;
+    margin-top: 22px;
+    margin-bottom: 15px;
+}
+
+section#our-process p {
+    font-family: Helvetica;
+    font-size: 14px;
+}
+
+section#designed-in-new-york h4 {
+    font-family: Helvetica;
+    font-size: 23px;
+    font-weight: bold;
+    color: white;
+    background-image: url("../images/the-flatiron-building.jpg");
+}
+
+section#designed-in-new-york h5 {
+    font-family: Helvetica;
+    font-size: 23px;
+    font-weight: bold;
+    margin-top: 22px;
+    margin-bottom: 15px;
+}
+
+section#designed-in-new-york p {
+    font-family: Helvetica;
+    font-size: 14px;
+}
+
+footer {
+    font-family: Helvetica;
+    font-size: 11px;
+    color: white;
+    background-color: dimgray;
+    text-align: left;
+}
+
+footer a {
+    text-decoration: underline;
+    font-size:18px;
+    color: white;
+}
